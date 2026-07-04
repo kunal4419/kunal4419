@@ -84,8 +84,8 @@ I'm a Flutter developer and full-stack engineer who cares more about what ships 
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -149,7 +149,7 @@ I'm a Flutter developer and full-stack engineer who cares more about what ships 
 |------|-----------|
 | **2026 – Present** | Application Developer (Flutter), Sangli — shipping production apps to Google Play |
 | **2024** | AWS Academy Graduate — Cloud Foundations |
-| **2022 – 2026** | B.Tech in Computer Science & Engineering — CGPA 8.01 *(expected)* |
+| **2022 – 2026** | B.Tech in Computer Science & Engineering — CGPA 8.01 |
 | **Along the way** | Full-stack web (Next.js · Node.js) → Flutter & Clean Architecture → production mobile |
 
 <br/>
@@ -160,8 +160,7 @@ I'm a Flutter developer and full-stack engineer who cares more about what ships 
 
 ## Currently
 
-- **Building** — [Medix](https://github.com/kunal4419/Medix), an EHR platform pairing multi-role auth with Ethereum smart contracts, and the [Rotary Trust](https://github.com/kunal4419/Rotary-Silver-Jubilee-Trust) production website
-- **Learning** — CI/CD automation, deeper cloud architecture, and advanced state management patterns
+- **Learning** — System Design, CI/CD automation, deeper cloud architecture, and advanced state management patterns
 - **Exploring** — multi-tenant systems, developer experience, and everything that makes code easier to maintain
 - **Open to** — mobile and full-stack engineering roles
 
