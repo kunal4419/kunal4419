@@ -34,47 +34,6 @@ I'm a Flutter developer and full-stack engineer who cares more about what ships 
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--                ACHIEVEMENTS                      -->
-<!-- ═══════════════════════════════════════════════ -->
-
-## Achievements
-
-<table align="center">
-  <tr align="center">
-    <td width="25%">
-      <h2>250+</h2>
-      <sub><b>DSA Problems Solved</b><br/>LeetCode · GfG · HackerRank</sub>
-    </td>
-    <td width="25%">
-      <h2>20+</h2>
-      <sub><b>Public Repositories</b><br/>Mobile · Web · Full-Stack</sub>
-    </td>
-    <td width="25%">
-      <h2>AWS</h2>
-      <sub><b>Academy Graduate</b><br/>Cloud Foundations, 2024</sub>
-    </td>
-    <td width="25%">
-      <h2>Live</h2>
-      <sub><b>Production Flutter Apps</b><br/>Shipped to Google Play</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════ -->
-<!--                 CURRENTLY                        -->
-<!-- ═══════════════════════════════════════════════ -->
-
-## Currently
-
-- **Building** — [Medix](https://github.com/kunal4419/Medix), an EHR platform pairing multi-role auth with Ethereum smart contracts, and the [Rotary Trust](https://github.com/kunal4419/Rotary-Silver-Jubilee-Trust) production website
-- **Learning** — CI/CD automation, deeper cloud architecture, and advanced state management patterns
-- **Exploring** — multi-tenant systems, developer experience, and everything that makes code easier to maintain
-- **Open to** — mobile and full-stack engineering roles
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════ -->
 <!--                 TECH STACK                       -->
@@ -196,6 +155,19 @@ I'm a Flutter developer and full-stack engineer who cares more about what ships 
 <br/>
 
 <!-- ═══════════════════════════════════════════════ -->
+<!--                 CURRENTLY                        -->
+<!-- ═══════════════════════════════════════════════ -->
+
+## Currently
+
+- **Building** — [Medix](https://github.com/kunal4419/Medix), an EHR platform pairing multi-role auth with Ethereum smart contracts, and the [Rotary Trust](https://github.com/kunal4419/Rotary-Silver-Jubilee-Trust) production website
+- **Learning** — CI/CD automation, deeper cloud architecture, and advanced state management patterns
+- **Exploring** — multi-tenant systems, developer experience, and everything that makes code easier to maintain
+- **Open to** — mobile and full-stack engineering roles
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════ -->
 <!--              TECH PHILOSOPHY                     -->
 <!-- ═══════════════════════════════════════════════ -->
 
@@ -204,29 +176,6 @@ I'm a Flutter developer and full-stack engineer who cares more about what ships 
 <div align="center">
 
 **Architecture First** &nbsp;·&nbsp; **Clean, Purposeful UI** &nbsp;·&nbsp; **Scalable APIs** &nbsp;·&nbsp; **Maintainable Code** &nbsp;·&nbsp; **User-Centered**
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════ -->
-<!--                GITHUB STATS                      -->
-<!-- ═══════════════════════════════════════════════ -->
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kunal4419&show_icons=true&hide_border=true&count_private=true&title_color=0A66C2&icon_color=0A66C2" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal4419&layout=compact&hide_border=true&title_color=0A66C2" alt="Top Languages" />
-
-<br/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal4419&hide_border=true&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" alt="GitHub Streak" />
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kunal4419&hide_border=true&area=true&color=0A66C2&line=0A66C2&point=0A0A0A&bg_color=00000000" alt="Contribution Graph" />
 
 </div>
 
