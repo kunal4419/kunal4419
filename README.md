@@ -71,6 +71,20 @@ I'm a Flutter developer and full-stack engineer who cares more about what ships 
 <br/>
 
 <!-- ═══════════════════════════════════════════════ -->
+<!--               CONTRIBUTIONS                     -->
+<!-- ═══════════════════════════════════════════════ -->
+
+## Contributions
+
+<div align="center">
+
+<img src="./contrib-heatmap.svg" width="100%" alt="Kunal Patel's GitHub Contribution Graph" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════ -->
 <!--              FEATURED PROJECTS                   -->
 <!-- ═══════════════════════════════════════════════ -->
 
