@@ -4,6 +4,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:0A0A0A&height=200&section=header&text=Kunal%20Patel&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Flutter%20%C2%B7%20Full-Stack%20%C2%B7%20Production-Grade&descAlignY=60&descSize=18" width="100%" alt="Kunal Patel" />
 
+<div align="center">
+
+<img src="./contrib-heatmap.svg" width="100%" alt="Kunal Patel's GitHub Contribution Graph" />
+
+</div>
+
+<br/>
+
 <!-- ═══════════════════════════════════════════════ -->
 <!--                    HERO                          -->
 <!-- ═══════════════════════════════════════════════ -->
@@ -67,20 +75,6 @@ I'm a Flutter developer and full-stack engineer who cares more about what ships 
     <td><img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Git, GitHub, VS Code, Figma" /></td>
   </tr>
 </table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════ -->
-<!--               CONTRIBUTIONS                     -->
-<!-- ═══════════════════════════════════════════════ -->
-
-## Contributions
-
-<div align="center">
-
-<img src="./contrib-heatmap.svg" width="100%" alt="Kunal Patel's GitHub Contribution Graph" />
-
-</div>
 
 <br/>
 
