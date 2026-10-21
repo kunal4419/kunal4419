@@ -1,22 +1,22 @@
 {
   "username": "kunal4419",
-  "generated_at": "2026-10-20T02:57:12Z",
+  "generated_at": "2026-10-21T02:51:27Z",
   "range": {
     "start": "2025-10-19",
+    "end": "2026-10-21"
+  },
+  "total_contributions": 393,
+  "active_days": 125,
+  "avg_per_active_day": 3.1,
+  "current_streak": {
+    "length": 16,
+    "start": "2026-10-05",
     "end": "2026-10-20"
   },
-  "total_contributions": 392,
-  "active_days": 124,
-  "avg_per_active_day": 3.2,
-  "current_streak": {
-    "length": 15,
-    "start": "2026-10-05",
-    "end": "2026-10-19"
-  },
   "longest_streak": {
-    "length": 15,
+    "length": 16,
     "start": "2026-10-05",
-    "end": "2026-10-19"
+    "end": "2026-10-20"
   },
   "best_day": {
     "date": "2026-08-11",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-10",
-      "total": 52
+      "total": 53
     }
   ],
   "days": [
@@ -1909,6 +1909,11 @@
     },
     {
       "date": "2026-10-20",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-10-21",
       "count": 0,
       "level": 0
     }
